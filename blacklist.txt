@@ -1,5 +1,8 @@
 ! simplyprivate blacklist #694
 ||amazon.*$important
+||upload.luckyorange.net
+||cs.luckyorange.net
+||settings.luckyorange.net
 ||affiliationjs.s3.amazonaws.com
 ||advertising-api.eu.amazon.com
 ||advertising-api.amazon.com
