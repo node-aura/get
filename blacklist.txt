@@ -1,10 +1,9 @@
-! simplyprivate blacklist
+! simplyprivate blacklist #694
 ||amazon.*$important
 ||affiliationjs.s3.amazonaws.com
 ||advertising-api.eu.amazon.com
 ||advertising-api.amazon.com
 ||adservices.amazon.com
-||amazon-adsystem.com
 ||m.media-amazon.com
 ||mouseflow.com
 ||track.mouseflow.com
@@ -16,6 +15,20 @@
 ||notify.bugsnag.com
 ||sentry.io
 ||cdn.sentry.io
+||browser.sentry-cdn.com
+||app.getsentry.com
+||data.mistat.intl.xiaomi.com
+||tracking.india.miui.com
+||metrics.data.hicloud.com
+||metrics1.data.hicloud.com
+||metrics2.data.hicloud.com
+||metrics3.data.hicloud.com
+||metrics4.data.hicloud.com
+||metrics5.data.hicloud.com
+||metrics6.data.hicloud.com
+||metrics7.data.hicloud.com
+||metrics8.data.hicloud.com
+||samsungadhub.com
 ||twitter.com
 ||syndication.twitter.com
 ||t.co
