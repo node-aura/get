@@ -1,4 +1,5 @@
 ! simplyprivate blacklist #694
+
 ||amazon.*$important
 ||upload.luckyorange.net
 ||cs.luckyorange.net
