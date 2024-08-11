@@ -173,4 +173,5 @@
 ||weather-analytics-events.apple.com
 ||notes-analytics-events.apple.com
 @@||qwant.com^$stylesheet,script,document
+@@||qwant.com^
 
