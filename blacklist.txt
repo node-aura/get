@@ -172,6 +172,19 @@
 ||books-analytics-events.apple.com
 ||weather-analytics-events.apple.com
 ||notes-analytics-events.apple.com
-@@||qwant.com^$stylesheet,script,document
 @@||qwant.com^
+@@||ecosia.com^
+@@||google.com^
+@@||youtube.com^
+@@||startpage.com^
+@@||ecosia.com^
+@@||duckduckgo.com^
+@@||ecosia.com^
+@@||microsoft.com^
+@@||discord.com^
+@@||pinterest.com^
+@@||windows93.net^
+@@||github.com^
+@@||umaera.github.io^
+@@||simplyprivate.github.io^
 
